@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/marcradke/STAT302package/workflows/R-CMD-check/badge.svg)](https://github.com/marcradke/STAT302package/actions)
+[![codecov](https://codecov.io/gh/marcradke/STAT302package/branch/master/graph/badge.svg?token=T4T7J9IOUQ)](https://codecov.io/gh/marcradke/STAT302package)
 <!-- badges: end -->
 
 The goal of STAT302package is to ...
