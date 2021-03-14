@@ -1,13 +1,13 @@
 Package: STAT302package
 Title: Package Demonstration
-Version: 0.0.1.0
+Version: 0.1.0
 Authors@R: 
     person(given = "Marc",
            family = "Radke",
            role = c("aut", "cre"),
            email = "mrradke@gmail.com")
 Description: Contains simple functions for the purposes of learning to build packages.
-License: GPL-3
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
